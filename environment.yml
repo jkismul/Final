@@ -15,6 +15,6 @@ dependencies:
   - ipywidgets
   - bqplot
   - pip:
-    - cv2
+    - python3-opencv
     - math
     - pickle
