@@ -14,7 +14,7 @@ dependencies:
   - lfpy
   - ipywidgets
   - bqplot
-  - pip:
+  - pip3:
     - python3-opencv
     - math
     - pickle
