@@ -12,3 +12,10 @@ dependencies:
   - python=3
   - neuron=*=mpi_*
   - lfpy
+  - cv2
+  - pickle
+  - math
+  - ipywidgets
+  - scipy.signal
+  - matplotlib.pyplot
+  - bqplot
