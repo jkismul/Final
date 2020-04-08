@@ -10,6 +10,7 @@ dependencies:
   - lfpy
   - ipywidgets==7.5.1
   - bqplot==0.12.5
+  - pip
   - pip:
     - opencv-python==4.2.0.32
     - math
