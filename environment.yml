@@ -13,5 +13,4 @@ dependencies:
   - pip
   - pip:
     - opencv-python==4.2.0.32
-    - math
     - pickle
