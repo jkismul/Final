@@ -10,7 +10,7 @@ dependencies:
   - lfpy
   - ipywidgets==7.5.1
   - bqplot==0.12.5
-  - pickle
   - pip
   - pip:
     - opencv-python==4.2.0.32
+    - pickle-mixin
